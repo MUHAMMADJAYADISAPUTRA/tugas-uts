@@ -1,0 +1,7 @@
+C:\Users\User\Program UTS\ConsoleAppgaji2\ConsoleAppgaji2\obj\Debug\ConsoleAppgaji2.csprojAssemblyReference.cache
+C:\Users\User\Program UTS\ConsoleAppgaji2\ConsoleAppgaji2\obj\Debug\ConsoleAppgaji2.csproj.CoreCompileInputs.cache
+C:\Users\User\Program UTS\ConsoleAppgaji2\ConsoleAppgaji2\bin\Debug\ConsoleAppgaji2.exe.config
+C:\Users\User\Program UTS\ConsoleAppgaji2\ConsoleAppgaji2\bin\Debug\ConsoleAppgaji2.exe
+C:\Users\User\Program UTS\ConsoleAppgaji2\ConsoleAppgaji2\bin\Debug\ConsoleAppgaji2.pdb
+C:\Users\User\Program UTS\ConsoleAppgaji2\ConsoleAppgaji2\obj\Debug\ConsoleAppgaji2.exe
+C:\Users\User\Program UTS\ConsoleAppgaji2\ConsoleAppgaji2\obj\Debug\ConsoleAppgaji2.pdb
