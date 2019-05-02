@@ -24,7 +24,7 @@ namespace ConsoleAppgaji2
         public void kenaikanGaji()
         {
             if (gaji < 0) { gaji = 0; }
-            Console.WriteLine("Yay, dapet bonus 10% dari bosku!");
+            Console.WriteLine("Yay, dapet bonus 10% dari stupidboss!");
             Console.WriteLine();
         }
     }
